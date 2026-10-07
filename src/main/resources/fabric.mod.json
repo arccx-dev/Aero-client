@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
+  "name": "Aero Client",
   "id": "meteor-client",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "Based utility mod. (rename)",
   "authors": [
     "MineGame159",
     "squidoodly",
